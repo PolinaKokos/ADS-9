@@ -1,13 +1,14 @@
 // Copyright 2022 NNTU-CS
 #include "tree.h"
-#include <iostream>
-#include <iomanip>
+
 #include <chrono>
-#include <random>
-#include <vector>
-#include <fstream>
 #include <cmath>
+#include <fstream>
+#include <iomanip>
+#include <iostream>
+#include <random>
 #include <string>
+#include <vector>
 
 using std::cout;
 using std::endl;
